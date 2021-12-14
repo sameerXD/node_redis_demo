@@ -1,0 +1,20 @@
+{
+  "name": "redisNode_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "express": "^4.17.1",
+    "ioredis": "^4.28.2",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "redis": "^4.0.0"
+  }
+}
